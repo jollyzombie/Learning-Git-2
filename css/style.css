@@ -1,10 +1,8 @@
 /*Global*/
 
-$font-text: 'Roboto', sans-serif;
-$font-header: 'Roboto Slab', serif;
 
 body {
-    font-family: $font-text;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 1.5;
 }
@@ -18,7 +16,7 @@ body {
 /*Content*/
 
 .song-name {
-    font-family: $font-header;
+    font-family: 'Roboto Slab', serif;
     font-size: 36px;
 }
 
